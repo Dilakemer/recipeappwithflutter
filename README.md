@@ -82,21 +82,5 @@ service cloud.firestore {
 }
 ```
 
-## Contribution Guidelines 🤝
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature`.
-3. Make your changes and commit them: `git commit -m "Add your feature"`.
-4. Push to the branch: `git push origin feature/your-feature`.
-5. Open a Pull Request.
-
-## License 📝
-This project is licensed under the **MIT License**.
-
-## Contact 📧
-For questions or support, reach out to:
-- **Your Name**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
-
----
 
 Enjoy cooking with our recipe app! 🍳
