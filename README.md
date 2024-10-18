@@ -80,7 +80,7 @@ service cloud.firestore {
     }
   }
 }
-```
 
+**Note:** After downloading all parts, use a RAR extraction tool to combine them into a single file.
 
 Enjoy cooking with our recipe app! 🍳
